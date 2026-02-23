@@ -31,9 +31,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // ROUTES
 app.get('/', (req, res) => {
-  res.render('home', {
-    title: "My Home Page"
-  });
+  // res.render('home', {
+  //   title: "My Home Page"
+  // });
+  res.redirect("/blog");
 });
 
 app.get('/blog', (req, res) => {
