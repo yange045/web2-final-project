@@ -2,7 +2,7 @@
 title: "This is just a sample blog post"
 author: "John Doe"
 description: "A nice description of this post"
-published: "2024-3-1"
+published: "2026-02-20"
 ---
 # One hash tag for an H1 affect
 
