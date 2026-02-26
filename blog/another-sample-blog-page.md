@@ -1,6 +1,6 @@
 ---
 title: "This is another sample blog post"
-author: "John Doe"
+author: "Eliy Yang"
 description: "A nice description of this post"
 published: "2026-02-20"
 ---
